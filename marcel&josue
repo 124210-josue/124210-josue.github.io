@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google</title>
+</head>
+
+<body style="font-family: Arial;">
+
+    <!-- Parte de arriba -->
+    <div style="text-align: right; padding: 10px;">
+        <a href="#">Gmail</a>
+        <a href="#">Imágenes</a>
+        <button>Acceder</button>
+    </div>
+
+    <!-- Centro -->
+    <div style="text-align: center; margin-top: 100px;">
+
+        <!-- Logo -->
+        <h1>
+            <span style="color: blue;">G</span>
+            <span style="color: red;">o</span>
+            <span style="color: orange;">o</span>
+            <span style="color: blue;">g</span>
+            <span style="color: green;">l</span>
+            <span style="color: red;">e</span>
+        </h1>
+
+        <!-- Buscador -->
+        <input type="text" style="width: 400px; padding: 10px; border-radius: 20px;">
+
+        <br><br>
+
+        <!-- Botones -->
+        <button>Buscar con Google</button>
+        <button>Voy a tener suerte</button>
+
+    </div>
+
+    <!-- Abajo -->
+    <div style="position: fixed; bottom: 0; width: 100%; background: lightgray; padding: 10px;">
+        México
+</div>
+
+</body>
+</html>
